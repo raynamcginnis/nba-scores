@@ -1,7 +1,7 @@
 # NBA Scores Chart
 
 ## Description
-JavaScript project that pulls fake API data into score charts, identifying the home team of each game, the winner of the game, and then applying a CSS class based on if the home team won or lost.
+JavaScript project that pulls fake API data into score charts, identifying the home team of each game, then the winner of the game, and applies a CSS class based on if the home team won or lost.
 
 ## Technologies 
 1. JavaScript
